@@ -1,0 +1,30 @@
+Inspirato Code Challenge
+
+Build an image search UI using a public API.  We recommend using the 500px API, however feel free to use any others!
+
+Requirements
+
+- It should be a universal app written in Swift, it should work on both iPhone and iPad.
+- The app should be able to search via keyword.
+- The app should be able to scroll through the search results.
+- The app should display each search result with an image and it's title, in a grid format.
+- The app should be able to select a cell, and show some additional information about the search result.
+- When the app gets to the bottom of the results, it should be able to load more at the bottom, "infinite scrolling."
+- The app should be able to work with any screen size and orientation.
+- If you want to show us something more, feel free to go nuts! However, don't let it distract you from the main assignment.
+
+We don't mind if you use 3rd party libraries to help implement anything, however they shouldn't solve the main problem!  We want this app to show off your coding skills.
+
+
+Resources 
+
+https://api.500px.com/v1/photos/search?term=SEARCH_TERM&consumer_key=CONSUMER_KEY&page=PAGE_NUM
+
+Feel free to use this consumer key to access their API.  If you'd like, you can register your own application on the 500px website.
+L1Yj9o68dZub8KbSSYEdCrQG5G4tapkehKgqYVKt
+
+You can check out the full 500px API documentation here:
+https://github.com/500px/api-documentation
+
+
+We estimate that this app will take about 4-5 hours.  If you think it'll take longer for any reason, please let us know!  You can send us your code any way you'd like.  Github, dropbox, zip via e-mail, etc.
